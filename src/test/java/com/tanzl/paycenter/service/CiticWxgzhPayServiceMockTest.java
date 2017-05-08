@@ -13,7 +13,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 import com.alibaba.fastjson.JSON;
-import com.baibei.wine.paycenter.Bootstrap;
+import com.tanzl.paycenter.Bootstrap;
 import com.tanzl.paycenter.common.BaseResponse;
 import com.tanzl.paycenter.service.CiticWxgzhPayService.RechargeWxRequet;
 
